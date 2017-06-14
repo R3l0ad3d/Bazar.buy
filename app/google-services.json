@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077775043740",
+    "firebase_url": "https://bazarbuy-b47be.firebaseio.com",
+    "project_id": "bazarbuy-b47be",
+    "storage_bucket": "bazarbuy-b47be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077775043740:android:5c4d4aa460d7b67c",
+        "android_client_info": {
+          "package_name": "com.example.r3l0ad3d.bazarbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077775043740-mfe0acuddhgq567ofctr15502b2m9t85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqt73jy-f0RR_UVCCqMp4O813oZAG6mHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
